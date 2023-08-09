@@ -15,7 +15,7 @@ Lista todos os depósitos e saques realizados na conta. Ao final da listagem, é
 
 # DIO Desafio Sistema Bancário - versão 2💰
 
-#### Nesta versão do projeto, o sistema bancário foi otimizado com funções Python. Saque, depóstio e extrato foram separados em funções. 
+#### Nesta versão do projeto, o sistema bancário foi otimizado com funções Python. Saque, depósito e extrato foram separados em funções. 
 ### Novas funcionalidades
 #### Além das funções das operações básicas, foram adicionadas três novas funções:
 ### Criar usuário 
